@@ -1,0 +1,11 @@
+.person {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  background-color: #b0b06fa8;
+  margin: 10px;
+}
+
+.active {
+  background-color: #88ba88b0;
+}
